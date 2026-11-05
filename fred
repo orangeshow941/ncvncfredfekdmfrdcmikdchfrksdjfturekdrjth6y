@@ -1,0 +1,11 @@
+auple = ("tuple", False,3.2, 1)
+print(auple)
+upaul = (4,6,8,9,0)
+print(upaul)
+auple = upaul + (9,)
+print(upaul)
+tuiple = (9, 0 ,9 ,7, 6 ,4)
+_slice=  tuiple[3:5]
+print(_slice)
+_slice=tuiple[:6]
+print(_slice)
